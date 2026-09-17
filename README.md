@@ -1,2 +1,2 @@
-# data-structures-and-algorithms
+# theory-of-algorithms
 University coursework and practical implementations for Theory of Algorithms.
